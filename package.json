@@ -3,6 +3,7 @@
   "name": "@dimensionhq/blitz",
   "description": "Fast, Simple and efficient state management for SolidJS",
   "type": "module",
+  "info": "Blitz is the modern state management library for solid, it combines the concept of svelte writables and the ease of use of recoiljs."
   "files": [
     "dist"
   ],
@@ -26,10 +27,25 @@
     "type": "git",
     "url": "https://github.com/dimensionhq/blitz.git"
   },
+  "contributors": {
+    {
+      "name": "Varun Potti",
+      "email": "potti.varun07@gmail.com",
+      "url": "https://ayo.so/varun"
+    },
+    {
+      "name": "Tejas Ravishankar",
+      "email": "xtremedevx@gmail.com",
+      "url": "xtremedevx.com"
+    }
+  }
   "keywords": [
     "Blitz",
     "SolidJS",
-    "State Management"
+    "State Management",
+    "solidhack",
+    "best_student_project",
+    "best_ecosystem"
   ],
   "author": "DimensionHQ",
   "license": "MIT",
