@@ -3,6 +3,7 @@ Fast, simple and efficient state management for Solid.
 
 ## Getting started is easy!
 ```bash
+
 # npm
 npm i @dimensionhq/blitz
 
